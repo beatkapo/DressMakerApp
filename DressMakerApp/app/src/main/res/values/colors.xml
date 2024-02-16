@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="principal">#9C5BF0</color>
+    <color name="secondary">#906DBD</color>
+    <color name="tertiary">#4E4757</color>
+    <color name="dark">#282033</color>
+    <color name="trashColor">#D12424</color>
+    <color name="moneyColor">#38A200</color>
+    <color name="call_button">#439318</color>
+    <color name="icon_button">#D5B9F8</color>
+    <color name="button_background">#22BCBCBC</color>
+    <color name="measure_icon">#B2E9FF</color>
+    <color name="test_icon">#FFFF7D</color>
+
+
+</resources>

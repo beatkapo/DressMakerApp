@@ -1,0 +1,126 @@
+<resources>
+
+
+
+    <string name="app_name">DressMaker</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="seleccionar_idioma">Seleccionar idioma</string>
+    <string name="spanish">Español</string>
+    <string name="english">Inglés</string>
+    <!-- activity_main.xml -->
+    <string name="resumen">Resumen</string>
+    <string name="totales">Totales</string>
+    <string name="por_completar">Por completar</string>
+    <string name="ver_todo">Ver todo</string>
+
+    <!-- activity_ver_todo.xml -->
+    <string name="filtrar_por">Filtrar por: </string>
+
+    <!-- activity_ver_trabajo.xml -->
+    <string name="estado">Estado: </string>
+    <string name="fecha_creacion">Fecha de creación: </string>
+    <string name="fecha_entrega">Fecha de entrega: </string>
+    <string name="info_cliente">Información del cliente</string>
+    <string name="nombre">Nombre: </string>
+    <string name="telefono">Teléfono: </string>
+    <string name="deuda">Deuda: </string>
+    <string name="medidas">Medidas</string>
+    <string name="pruebas">Pruebas</string>
+    <string name="precio_total">Precio total: </string>
+    <string name="pago_recibido">Pago recibido: </string>
+    <string name="recibir">A recibir: </string>
+
+
+    <!-- item_medida.xml -->
+    <string name="espalda">Espalda: </string>
+    <string name="pecho">Pecho: </string>
+    <string name="cintura">Cintura: </string>
+    <string name="falda">Falda: </string>
+    <string name="tipo">Tipo: </string>
+    <string name="largo">Largo: </string>
+    <string name="ancho_brazo">Ancho brazo: </string>
+    <string name="ancho_antebrazo">Ancho antebrazo: </string>
+    <string name="manga">Manga</string>
+
+    <!-- item_prueba.xml -->
+    <string name="numero">Nº: </string>
+    <string name="detalles">Detalles: </string>
+
+    <!-- activity_formulario_trabajo.xml -->
+    <string name="precio">Precio</string>
+    <string name="pagado">Pagado: </string>
+    <string name="cliente">Cliente: </string>
+
+    <!-- activity_formulario_prueba.xml -->
+    <string name="imagenes">Imágenes</string>
+
+    <!-- activity_formulario_medida.xml -->
+    <string name="tipo_manga">Tipo de manga: </string>
+    <string name="editar">EDITAR</string>
+    <string name="nuevo">NUEVO</string>
+    <string name="nuevo_minus">Nuevo</string>
+    <string name="cliente_mayus">CLIENTE</string>
+    <string name="trabajo_mayus">TRABAJO</string>
+    <string name="prueba_mayus">PRUEBA</string>
+    <string name="medida_mayus">MEDIDA</string>
+    <string name="nuevo_cliente">NUEVO CLIENTE</string>
+    <string name="nuevo_trabajo">NUEVO TRABAJO</string>
+    <string name="nueva_prueba">NUEVA PRUEBA</string>
+    <string name="nueva_medida">NUEVA MEDIDA</string>
+
+    <string name="nombre_apellidos">Nombre y apellidos</string>
+    <string name="n_telefono">Número de telefono</string>
+
+    <string name="corta">Corta</string>
+    <string name="larga">Larga</string>
+    <string name="semi">Semi</string>
+
+    <string name="medida_actualizada">Medida actualizada con éxito</string>
+    <string name="medida_guardada">Medida guardada con éxito</string>
+    <string name="medida_eliminada">Medida eliminada con éxito</string>
+    <string name="trabajo_actualizado">Trabajo actualizado con éxito</string>
+    <string name="trabajo_guardado">Trabajo guardado con éxito</string>
+    <string name="trabajo_eliminado">Trabajo eliminado con éxito</string>
+    <string name="prueba_actualizada">Prueba actualizada con éxito</string>
+    <string name="prueba_guardada">Prueba guardada con éxito</string>
+    <string name="prueba_eliminada">Prueba eliminada con éxito</string>
+    <string name="cliente_actualizado">Cliente actualizado con éxito</string>
+    <string name="cliente_guardado">Cliente guardado con éxito</string>
+    <string name="cliente_eliminado">Cliente eliminado con éxito</string>
+
+    <string name="rellena_todo">Rellena todos los datos antes de aceptar</string>
+    <string name="no_imagenes">Todavía no se han añadido imágenes.</string>
+    <string name="detalle_vacio">Campo \'Detalles\' vacío</string>
+    <string name="eliminar_cliente">Eliminar cliente</string>
+    <string name="eliminar_cliente_confirmar">¿Estás seguro de que quieres eliminar este cliente?</string>
+    <string name="si">Si</string>
+    <string name="trabajo">Trabajo</string>
+    <string name="arreglo">Arreglo</string>
+    <string name="actualizado"> guardado con éxito</string>
+    <string name="guardado"> guardado con éxito</string>
+    <string name="az">A-Z Nombre</string>
+    <string name="za">Z-A Nombre</string>
+    <string name="date_asc">↑ Fecha</string>
+    <string name="date_desc">↓ Fecha</string>
+    <string name="estado_asc">↑ Estado</string>
+    <string name="estado_desc">↓ Estado</string>
+    <string name="lista_trabajos">Lista de trabajos</string>
+    <string name="lista_clientes">Lista de clientes</string>
+    <string name="tomar_medidas">Tomar medidas</string>
+    <string name="en_proceso">En proceso</string>
+    <string name="prueba">Prueba</string>
+    <string name="terminado">Terminado</string>
+    <string name="eliminar_trabajo">Eliminar trabajo</string>
+    <string name="eliminar_trabajo_confirmar">¿Estás seguro de que quieres eliminar este trabajo?</string>
+    <string name="registrar_pago">Confirmar pago</string>
+    <string name="pago_confirmar">"¿Estás seguro de que quieres registrar un pago de "</string>
+    <string name="pago_realizado">Pago registrado</string>
+    <string name="ingresar_cantidad">Por favor, ingresa la cantidad</string>
+    <string name="traje">Traje</string>
+    <string name="trabajos">Trabajos</string>
+    <string name="calendario">Selecciona →</string>
+
+
+</resources>

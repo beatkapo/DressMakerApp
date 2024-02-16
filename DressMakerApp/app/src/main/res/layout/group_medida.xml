@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="0.25"
+        android:tint="@color/measure_icon"
+        app:srcCompat="@drawable/ruler_triangle" />
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center|left"
+        android:text="@string/medidas"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/imageDesplegable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.25"
+        android:src="@drawable/expand_more"
+        android:tint="@color/white"
+        app:srcCompat="@drawable/expand_more" />
+
+</LinearLayout>
+

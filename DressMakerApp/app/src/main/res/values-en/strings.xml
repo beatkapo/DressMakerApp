@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DressMaker</string>
+    <string name="aceptar">Accept</string>
+    <string name="cancelar">Cancel</string>
+    <string name="ajustes">Settings</string>
+    <string name="seleccionar_idioma">Select language</string>
+    <string name="spanish">Spanish</string>
+    <string name="english">English</string>
+
+    <!-- activity_main.xml -->
+    <string name="resumen">Summary</string>
+    <string name="totales">Totals</string>
+    <string name="por_completar">To be completed</string>
+    <string name="ver_todo">See all</string>
+
+    <!-- activity_ver_todo.xml -->
+    <string name="filtrar_por">Filtrer by: </string>
+
+    <!-- activity_ver_trabajo.xml -->
+    <string name="estado">Status: </string>
+    <string name="fecha_creacion">Creation date: </string>
+    <string name="fecha_entrega">Delivery date: </string>
+    <string name="info_cliente">Customer information</string>
+    <string name="nombre">Name: </string>
+    <string name="telefono">Phone: </string>
+    <string name="deuda">Debt: </string>
+    <string name="medidas">Measures</string>
+    <string name="pruebas">Tests</string>
+    <string name="precio_total">Total price: </string>
+    <string name="pago_recibido">Payment received: </string>
+    <string name="recibir">To receive: </string>
+
+    <!-- item_medida.xml -->
+    <string name="espalda">Back: </string>
+    <string name="pecho">Chest: </string>
+    <string name="cintura">Waist: </string>
+    <string name="falda">Skirt: </string>
+    <string name="tipo">Type: </string>
+    <string name="largo">Long: </string>
+    <string name="ancho_brazo">Arm width: </string>
+    <string name="ancho_antebrazo">Forearm width: </string>
+    <string name="manga">Sleeve</string>
+
+
+    <!-- item_prueba.xml -->
+    <string name="numero">Number: </string>
+    <string name="detalles">Details: </string>
+
+    <!-- activity_formulario_trabajo.xml -->
+    <string name="precio">Price</string>
+    <string name="pagado">Paid: </string>
+    <string name="cliente">Customer: </string>
+
+    <!-- activity_formulario_prueba.xml -->
+    <string name="imagenes">Pictures</string>
+
+    <!-- activity_formulario_medida.xml -->
+    <string name="tipo_manga">Sleeve type: </string>
+
+
+    <string name="editar">EDIT</string>
+    <string name="nuevo">NEW</string>
+    <string name="nuevo_minus">New</string>
+    <string name="cliente_mayus">CUSTOMER</string>
+    <string name="trabajo_mayus">JOB</string>
+    <string name="prueba_mayus">TEST</string>
+    <string name="medida_mayus">MEASURE</string>
+    <string name="nuevo_cliente">NEW CUSTOMER</string>
+    <string name="nuevo_trabajo">NEW WORK</string>
+    <string name="nueva_prueba">NEW TEST</string>
+    <string name="nueva_medida">NEW MEASURE</string>
+
+    <string name="nombre_apellidos">Firstname lastname</string>
+    <string name="n_telefono">Phone number</string>
+
+    <string name="corta">Short</string>
+    <string name="larga">Long</string>
+    <string name="semi">Semi</string>
+
+    <string name="medida_actualizada">Measure successfully updated</string>
+    <string name="medida_guardada">Measurement successfully saved</string>
+    <string name="medida_eliminada">Measure successfully deleted</string>
+    <string name="trabajo_actualizado">Successfully updated job</string>
+    <string name="trabajo_guardado">Job successfully saved</string>
+    <string name="trabajo_eliminado">Job successfully eliminated</string>
+    <string name="prueba_actualizada">Successfully updated test</string>
+    <string name="prueba_guardada">Successfully saved test</string>
+    <string name="prueba_eliminada">Successfully eliminated test</string>
+    <string name="cliente_actualizado">Customer successfully updated</string>
+    <string name="cliente_guardado">Customer successfully saved</string>
+    <string name="cliente_eliminado">Customer successfully deleted</string>
+
+    <string name="rellena_todo">Fill in all the data before accepting</string>
+    <string name="no_imagenes">No images have been added yet.</string>
+    <string name="detalle_vacio">Field \'Details\' is empty</string>
+    <string name="eliminar_cliente">Delete customer</string>
+    <string name="eliminar_cliente_confirmar">Are you sure you want to remove this customer?</string>
+    <string name="si">Yes</string>
+    <string name="trabajo">Job</string>
+    <string name="arreglo">Repair</string>
+    <string name="actualizado"> successfully updated</string>
+    <string name="guardado"> successfully saved</string>
+    <string name="az">A-Z Name</string>
+    <string name="za">Z-A Name</string>
+    <string name="date_asc">↑ Date</string>
+    <string name="date_desc">↓ Date</string>
+    <string name="estado_asc">↑ Status</string>
+    <string name="estado_desc">↓ Status</string>
+    <string name="lista_trabajos">Job list</string>
+    <string name="lista_clientes">Customer list</string>
+    <string name="tomar_medidas">Take measures</string>
+    <string name="en_proceso">In process</string>
+    <string name="prueba">Test</string>
+    <string name="terminado">Done</string>
+    <string name="eliminar_trabajo">Delete job</string>
+    <string name="eliminar_trabajo_confirmar">Are you sure you want to eliminate this job?</string>
+    <string name="registrar_pago">Confirm payment</string>
+    <string name="pago_confirmar">"Are you sure you want to register a payment of "</string>
+    <string name="pago_realizado">Registered payment</string>
+    <string name="ingresar_cantidad">Please enter the amount</string>
+    <string name="traje">Suit</string>
+    <string name="trabajos">Jobs</string>
+    <string name="calendario">Pick date →</string>
+
+
+
+
+
+</resources>
